@@ -1,6 +1,4 @@
-# aws_fmr_cloudx_genai_workshop
-
-### Workshop Title: Build, Fine-tune, and Deploy Generative AI Applications on AWS
+# Build, Fine-tune, and Deploy Generative AI Applications on AWS
 
 
 ### Workshop Description
@@ -17,4 +15,5 @@ flexibility offered by Amazon SageMaker to fine-tune and deploy mission critical
 #### Contributors
 
 Vikram Elango
+
 Vasu Chari
